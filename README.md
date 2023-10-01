@@ -1,3 +1,7 @@
+![image](https://github.com/shturm/cra-firebase/assets/1025605/6c29b2ba-c1dc-4c2c-9e28-430500b18385)
+![image](https://github.com/shturm/cra-firebase/assets/1025605/48d2acd7-208a-4ddb-bfca-188ae716b92f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
